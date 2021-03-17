@@ -4,8 +4,8 @@ import pyttsx3
 import csv
 
 # Twitch Variables
-clientId = 'gz3pppp9elbk6smuodu5pxeswaox7p'
-clientSecret = 'wc40p5dwvcoenypeymop7mla17l0pf'
+clientId = ''
+clientSecret = ''
 
 # Speech variables
 r = sr.Recognizer()
