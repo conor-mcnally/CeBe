@@ -4,7 +4,7 @@
 
 Can't control your potty mouth? Let CeBe do it for you!
 
-Currently functionality:
+Current functionality:
 
 1. Add any video clip to have it converted to audio.
 2. Convert the audio clip to text.
